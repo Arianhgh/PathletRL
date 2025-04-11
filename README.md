@@ -90,6 +90,4 @@ python pathlet_rl_plus_plus.py --seed 0 --M 0.25 --mu_threshold 0.8 --k 10 --lr 
 - **`--gamma`**: Discount factor.
 - **`--timesteps`**: Total number of training timesteps.
 
-## Contact
 
-Please contact me arianhgh@my.yorku.ca for any bugs/issues/questions you may have found on our code. Thank you so much.
